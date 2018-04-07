@@ -1,0 +1,7 @@
+#Sat Apr 07 14:25:24 BST 2018
+base.0=/Users/rolandihasz/software_development/repository/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/transforms/dexMerger/debug/12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/rolandihasz/software_development/repository/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/transforms/dexMerger/debug/11

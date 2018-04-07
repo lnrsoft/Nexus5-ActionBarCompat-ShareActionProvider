@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Apr 07 14:25:09 BST 2018
+1.base=/Users/rolandihasz/software_development/repository/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/assets/debug
+2.path=photo_3.jpg
+0.baseType=DIRECTORY
+2.base=/Users/rolandihasz/software_development/repository/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=photo_1.jpg
+0.set=ASSET
+0.base=/Users/rolandihasz/software_development/repository/ActionBarCompat-ShareActionProvider1/Application/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=photo_2.jpg
